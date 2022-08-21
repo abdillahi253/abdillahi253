@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abdillahi253
-- 👀 I’m interested in project tutoré
+- 👋 Hi, I’m @abdillahi 
+- 👀 I’m interested in software engineer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
